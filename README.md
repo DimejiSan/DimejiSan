@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @DimejiSan, 
-- 👀 I’m interested in Data and Business Analysis
-- 🌱 I’m currently self-learning Sequel and Power Bi
-- 💞️ I’m looking to collaborate on Data cleaning and modelling projects
+- 👀 I’m a Data and Business Analysis enthusiast
+- 🌱 Proficient at Microsoft Excel and Tableau
+- 🌱 Self-learning Sequel
+- 💞️ I am eager to join a team that values continuous learning, innovation, and collaboration, where I can contribute my skills and enhance my expertise in data analysis.
 - 📫 Reach me via email - solomonadeniyi2012@gmail.com
 
 <!---
