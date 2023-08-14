@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DimejiSan, 
 - 👀 I’m a Data and Business Analysis enthusiast
-- 🌱 Proficient at Microsoft Excel and Tableau
-- 🌱 Self-learning Sequel
+- 🌱 Proficient in SQL, Microsoft Excel and Tableau
+- 🌱 Self-taught 
 - 💞️ I am eager to join a team that values continuous learning, innovation, and collaboration, where I can contribute my skills and enhance my expertise in data analysis.
 - 📫 Reach me via email - solomonadeniyi2012@gmail.com
 
